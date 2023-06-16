@@ -10,6 +10,17 @@
 - Persistent Login
 - Protected Routes
 
+
+## Technologies Used
+
+- React
+- Node.js
+- MongoDB
+- React Forms
+- React Bootstrap
+- React Router
+- Axios
+
 ## Screenshots
 
 1. Home Page
@@ -23,12 +34,3 @@
 
 
 
-## Technologies Used
-
-- React
-- Node.js
-- MongoDB
-- React Forms
-- React Bootstrap
-- React Router
-- Axios
